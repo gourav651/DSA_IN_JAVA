@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
