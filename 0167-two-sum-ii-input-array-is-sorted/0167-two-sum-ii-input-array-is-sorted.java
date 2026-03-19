@@ -7,7 +7,7 @@ class Solution {
         while(left<right){
             int sum = numbers[left]+numbers[right];
             if(sum==target){
-                arr[0] = left+1;
+                arr[0] = left+1; //for 1 based index
                 arr[1] = right+1;
                 return arr;
             }else if(sum<target){
