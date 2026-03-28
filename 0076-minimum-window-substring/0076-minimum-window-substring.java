@@ -3,14 +3,13 @@ class Solution {
         if (s.length() < t.length()) {
             return "";
         }
-
         Map<Character, Integer> charCount = new HashMap<>();
         for (char ch : t.toCharArray()) {
             charCount.put(ch, charCount.getOrDefault(ch, 0) + 1);
         }
 
         int targetCharsRemaining = t.length();
-        int[] minWindow = {0, Integer.MAX_VALUE};
+        int[] minWindow = { 0, Integer.MAX_VALUE };
         int startIndex = 0;
 
         for (int endIndex = 0; endIndex < s.length(); endIndex++) {
@@ -41,6 +40,6 @@ class Solution {
             }
         }
 
-        return minWindow[1] >= s.length() ? "" : s.substring(minWindow[0], minWindow[1] + 1);        
+        return minWindow[1] >= s.length() ? "" : s.substring(minWindow[0], minWindow[1] + 1);
     }
 }
