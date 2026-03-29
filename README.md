@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0055-jump-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
