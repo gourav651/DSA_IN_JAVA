@@ -1,11 +1,15 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
         String[] words =s.split(" ");
+
+        // Step 1: Length check
         if(pattern.length() != words.length) return false;
 
+        // Step 2: Create two maps for bijection
         HashMap<Character, String> map1 = new HashMap<>();
         HashMap<String, Character> map2 = new HashMap<>();
 
+         // Step 3: Traverse pattern and words
         for(int i=0;i<pattern.length();i++){
             char ch = pattern.charAt(i);
             String word = words[i];
