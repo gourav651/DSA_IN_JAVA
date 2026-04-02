@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
