@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0274-h-index) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
