@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0392-is-subsequence) |
 ## Stack
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0290-word-pattern) |
