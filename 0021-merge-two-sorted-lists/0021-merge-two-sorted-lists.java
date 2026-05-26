@@ -11,9 +11,9 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
+        ListNode current = dummy;  // resultant list to store the merged list
         while(list1 != null && list2 != null){
-            if(list1.val <= list2.val){
+            if(list1.val <= list2.val){  //push the smaller element to the new list
                 current.next = list1;
                 list1 = list1.next;
             }else{
@@ -23,6 +23,7 @@ class Solution {
             current = current.next;
         }
 
+        //attach remianing elements of both Lists
         if(list1 != null){
             current.next = list1;
         }
