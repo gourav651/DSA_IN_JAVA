@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0383-ransom-note) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/gourav651/DSA_IN_JAVA/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
