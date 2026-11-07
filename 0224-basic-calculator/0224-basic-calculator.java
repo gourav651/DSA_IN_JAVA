@@ -23,7 +23,7 @@ class Solution {
                 stack.push(result);
                 stack.push(sign);
 
-                result = 0;
+                result = 0;  //reset the result to 0 so that new value will be stored inside the result comes from under the ()
                 sign = 1;
             }
             else if(ch == ')'){
